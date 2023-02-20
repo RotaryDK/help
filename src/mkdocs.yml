@@ -10,6 +10,7 @@ theme:
     - toc.integrate
 nav:
   - 'index.md'
+  - 'claus.md'
   - 'outlookmobile.md'
   - 'outlookpaapc.md'
   - Portal: 'https://portal.rotary.dk'
