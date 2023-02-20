@@ -1,5 +1,5 @@
 # TODO's
-- [x] Beskrivelse af portal.rotary.dk
+- [ ] Beskrivelse af portal.rotary.dk
 - [ ] Forståelse af at vi alle har et ID (vores medlemsnr) og man tilknyttes en funktion
 - [ ] Adgang via mobiltelefon - Outlook app. og at man ikke kan bruge den indbyggede iPhone/Adroid App.
 - [ ] Opsætning af Autosignatur
