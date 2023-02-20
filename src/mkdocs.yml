@@ -8,6 +8,9 @@ theme:
     - navigation.tabs
     - navigation.indexes
     - toc.integrate
+markdown_extensions:
+  - attr_list
+  - md_in_html
 nav:
   - 'index.md'
   - 'claus.md'
