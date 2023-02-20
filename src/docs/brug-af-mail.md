@@ -1,4 +1,4 @@
-# Hvad må en Rotary mailadresse benyttes til?
+# Rotary mailadresse
 
 Til nogle ledelsesroller i Rotary Danmark, er det muligt at få en Rotary.dk mailadresse.
 Mailadressen oprettes med det formål at kunne varetage en eller flere rotaryfunktioner.
