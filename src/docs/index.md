@@ -16,14 +16,3 @@ Du har som bruger et login som er dig selv personligt som består af "Dit rotary
     * På dette site har du adgang til både din egen adresse samt de funktions postkasser du måtte have
     * Du har en fuld Teams Licens tilknyttet din bruger
     * Du har adgang til Word / Excel i online version 
-
-## TODO's
-- Beskrivelse af portal.rotary.dk
-- Forståelse af at vi alle har et ID (vores medlemsnr) og man tilknyttes en funktion
-- Adgang via mobiltelefon - Outlook app. og at man ikke kan bruge den indbyggede iPhone/Adroid App.
-- Opsætning af Autosignatur
-- Hvad må du bruge din Rotary mail til?
-- Beskrivelse af hvordan bruges Teams til onlinemøder
-- Hvordan og hvor gemmes dokumenter
-- Opsætning af Microsoft Authenticator
-- Reset af password
