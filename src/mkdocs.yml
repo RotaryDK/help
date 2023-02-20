@@ -8,3 +8,7 @@ theme:
     - navigation.tabs
     - navigation.indexes
     - toc.integrate
+nav:
+  - 'index.md'
+  - 'outlookmobile.md'
+  - 'outlookpaapc.md'
