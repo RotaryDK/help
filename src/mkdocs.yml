@@ -16,7 +16,7 @@ markdown_extensions:
       custom_checkbox: true
 nav:
   - 'index.md'
-  - 'claus.md'
+  - 'brug-af-mail.md'
   - 'outlookmobile.md'
   - 'outlookpaapc.md'
   - Portal: 'https://portal.rotary.dk'
