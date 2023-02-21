@@ -8,6 +8,7 @@ theme:
     - navigation.tabs
     - navigation.indexes
     - toc.integrate
+    - navigation.top
 markdown_extensions:
   - attr_list
   - md_in_html
