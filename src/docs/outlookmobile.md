@@ -16,6 +16,10 @@ Når du starter outlook 1. gang skal du oprette en konto, så du skal logge ind 
 
 ![App AppStore](assets/images/outlook-type-username.png)
 
+Når du har skrevet din kode skal trykke på __Måske senere__
+
+![Tilføj anden konto](assets/images/outlook-skip-new-account.png)
+
 ## Tilslutte funktions postkasse
 
 Du kan se navnet på dine funktions postkasser via <a href=https://portal.rotary.dk target=_blank>portal.rotary.dk</a>, du skal bruge selve email adressen på de funktions postkasser du skal tilslutte
