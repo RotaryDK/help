@@ -23,6 +23,9 @@ nav:
   - Medlemssystem:
     - medlemmer.md
     - Opret medlem: opretmedlem.md
+    - Genindmeld medlem: genindmeld.md
+    - Udmeld medlem: udmeld.md
+    - Flyt til anden klub: flytmedlem.md
     - Mødekalender: modekalender.md
     - ledelsesfunktioner.md
   - Microsoft 365:
