@@ -2,7 +2,7 @@
 
 Dette site indeholder IT vejldninger for Rotary Danmarks IT Brugere.
 
-## Hvad er dækket her
+## Indhold
 
 Dette site indeholder vejldninger til:
 - Medlemssystemet
