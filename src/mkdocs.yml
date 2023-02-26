@@ -19,7 +19,7 @@ markdown_extensions:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
 nav:
-  - index.md
+  - Hjem: index.md
   - Medlemssystem:
     - medlemmer.md
     - medlemmer2.md
