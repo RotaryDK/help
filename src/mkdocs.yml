@@ -20,8 +20,9 @@ markdown_extensions:
       emoji_generator: !!python/name:materialx.emoji.to_svg
 nav:
   - index.md
-  - Medlemmer: medlemmer.md
-  - medlemmer2.md
+  - Medlemmer:
+    - medlemmer.md
+    - medlemmer2.md
   - brug-af-mail.md
   - outlookmobile.md
   - outlookpaapc.md
