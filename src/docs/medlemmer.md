@@ -14,7 +14,3 @@ Hovedmenuen indeholder de menupunkter, som der kan ses på billedet. Holder man 
 Der findes et antal skjulte menuer på rotary.dk.
 Disse fremkaldes ved at klikke på de 3 lodrette prikker, se billede herunder.
 ![Skjulte menuer](images/medlem002.jpg)
-
-
-## Opret nyt medlem
-Når man skal oprette et nyt medlem skal man have alle medlemsdata parat, da man skal bruge disse til indtastning af det nye medlem. Der findes et medlemsskema på rotary.dk som man kan benytte for at sikre at man har alle relevante data. Skemaet finder du her ...
