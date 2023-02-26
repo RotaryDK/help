@@ -23,7 +23,8 @@ nav:
   - Medlemmer:
     - medlemmer.md
     - medlemmer2.md
-  - brug-af-mail.md
-  - outlookmobile.md
-  - outlookpaapc.md
+  - Microsoft 365:
+    - brug-af-mail.md
+    - outlookmobile.md
+    - outlookpaapc.md
   - Portal: 'https://portal.rotary.dk'
