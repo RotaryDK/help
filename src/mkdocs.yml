@@ -22,7 +22,7 @@ nav:
   - Hjem: index.md
   - Medlemssystem:
     - medlemmer.md
-    - medlemmer2.md
+    - Opret medlem: opretmedlem.md
     - Mødekalender: modekalender.md
     - ledelsesfunktioner.md
   - Microsoft 365:
