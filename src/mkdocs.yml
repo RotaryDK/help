@@ -1,8 +1,8 @@
 site_name:  Rotary Danmark - IT Vejledninger
 theme:
   name: 'material'
-  logo: assets/logo.png
-  favicon: assets/logo.png
+  logo: images/logo.png
+  favicon: images/logo.png
   language: da
   features:
     - navigation.tabs

@@ -8,6 +8,8 @@ På rotary.dk findes der forskellige måder menupunkter vises på.
 Indsæt billede med den blå menu
 Hovedmenuen indeholder de menupunkter, som der kan ses på billedet. Holder man musen over de enkelte menupunkter, vil der fremkomme flere menupunkter.
 
+![Top menu](images/medlem001.jpg)
+
 ### Skjulte menuer
 Der findes et antal skjulte menuer på rotary.dk.
 Disse fremkaldes ved at klikke på de 3 lodrette prikker, se billede herunder.

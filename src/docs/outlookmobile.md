@@ -6,7 +6,7 @@ Denne sektion kommer til at indeholde en vejledning til at sætte Outlook op på
 
 :material-apple: [iPhone eller iPad fra App Store](https://apps.apple.com/dk/app/microsoft-outlook/id951937596?l=da)
 
-![App AppStore](assets/images/appstore-page.png)
+![App AppStore](images/appstore-page.png)
 
 :material-android: [Android / Google fra Play Store](https://play.google.com/store/apps/details?id=com.microsoft.office.outlook)
 
@@ -14,11 +14,11 @@ Denne sektion kommer til at indeholde en vejledning til at sætte Outlook op på
 
 Når du starter outlook 1. gang skal du oprette en konto, så du skal logge ind med __rotarynummer@rotary.dk__ som vist nedenfor
 
-![App AppStore](assets/images/outlook-type-username.png)
+![App AppStore](images/outlook-type-username.png)
 
 Når du har skrevet din kode skal trykke på __Måske senere__
 
-![Tilføj anden konto](assets/images/outlook-skip-new-account.png)
+![Tilføj anden konto](images/outlook-skip-new-account.png)
 
 ## Tilslutte funktions postkasse
 
