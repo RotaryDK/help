@@ -13,7 +13,7 @@ Hovedmenuen indeholder de menupunkter, som der kan ses på billedet. Holder man 
 ### Skjulte menuer
 Der findes et antal skjulte menuer på rotary.dk.
 Disse fremkaldes ved at klikke på de 3 lodrette prikker, se billede herunder.
-Indsæt billede
+![Skjulte menuer](images/medlem002.jpg)
 
 
 ## Opret nyt medlem
