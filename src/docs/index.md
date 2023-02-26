@@ -12,3 +12,5 @@ Dette site indeholder vejldninger til:
 Du kan finde vejledninger var at klikke på relevant menupunkt i hovedmenuen øverst. Efter klik på denne, kommer der et antal undermenuer frem i venstre side af skærmen, som kan bruge til at navigere til disse sider.
 
 Siderne vedligeholdes af :simple-rotaryinternational: Rotary Danmark IT-Udvalg
+
+Har du kommentarer til indhold, så kontakt dit distrikts DICO. Du kan finde kontaktoplysninger på rotary.dk under servicefunktioner.
