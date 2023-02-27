@@ -5,6 +5,7 @@ Når man skal oprette et nyt medlem skal man have alle medlemsdata parat, da man
 For at kunne oprette et nyt medlem skal du have administrativ adgang til din klubs sider på rotary.dk. Dette gives normalt til sekretær og CICO, som kan varetage disse opgaver.
 
 For at oprette et nyt medlem skal du:
+
 - Gå ind på Mit Rotary
 - Klikke på menupunktet medlemmer
 - Klikke på de 3 lodrette prikker i højre side
