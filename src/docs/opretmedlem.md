@@ -18,3 +18,8 @@ Herefter fremkommer formularen, hvor du skal oprette det nye medlem. Udfyld alle
 I højre side af skærmen finder du hjælp til de enkelte felter.
 
 ![Opret medlem](images/medlem006.jpg)
+
+!!! warning "Husk at klikke på GEM i bunden af skærmen"
+
+    En af de oftest forekommende fejl er, at man glemmer at klikke på GEM knappen, som findes i bunden af skærmen.
+    Hvis du går væk fra siden, vil alle dine indtastninger være væk.
