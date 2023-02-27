@@ -5,21 +5,22 @@ Når du er logget ind på office.com med dit brugernavn og kodeord (dit medlemsn
 
 ![Opret teamsmøde](images/teams001.jpg)
 
-bla
+Kan du ikke se Teams i oversigten over App's, så klik på de 9 prikker, så vises alle app's og så vil du kunne finde Teams app'en.
+Når du har klikket på Teams app'en vil Teams åbne som vist nedenfor.
 
 ![Opret teamsmøde](images/teams002.jpg)
 
-bla
+Måden du opretter et møde på er, at klikke på knappen "Møde" til højre på skærmen. Der er en pil ved siden af knappen, som ved klik viser de muligheder, der er for oprettelse af møde.
 
 ![Opret teamsmøde](images/teams003.jpg)
 
-bla
+Klik på pilen ved "Møde" knappen og vælg "Planlæg et møde".
 
 ![Opret teamsmøde](images/teams004.jpg)
 
-bla
+Herefter fremkommer nedenstående skærmbillede. Udfyld de relevante felter og klik på ....
 
 ![Opret teamsmøde](images/teams005.jpg)
 
-bla
+Mødet er nu oprettet og sendt til de modtagere, du har valgt under tilføj obligatoriske deltagere.
 
