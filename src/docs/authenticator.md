@@ -1,0 +1,1 @@
+# Opsætning af Microsoft Authenticator
