@@ -8,3 +8,4 @@ Man bør derfor følge følgende ting:
 
 - Mailadresse benyttes kun til Rotary formål
 - Man skal undlade at opgive sin Rotary mailadresse til f.eks. modtagelse af nyhedsbreve
+- Undlade at bruge sin Rotary e-mail adresse som login til systemer udenfor Rotary
