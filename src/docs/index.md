@@ -14,8 +14,8 @@ Du kan finde vejledninger var at klikke på relevant menupunkt i hovedmenuen øv
 
 Siderne vedligeholdes af :simple-rotaryinternational: Rotary Danmark IT-Udvalg
 
-!!! question "Har du kommentarer"
+!!! question "Har du kommentarer eller spørgsmål"
 
-    Har du kommentarer til indhold, så kontakt dit distrikts DICO.
+    Har du kommentarer eller spørgsmål til indhold, så kontakt dit distrikts DICO.
     Du kan finde kontaktoplysninger på rotary.dk under servicefunktioner.
 
