@@ -13,3 +13,6 @@ For at oprette et nyt medlem skal du:
 
 ![Opret medlem](images/medlem005.jpg)
 
+Herefter fremkommer formularen, hvor du skal oprette det nye medlem. Udfyld alle obligatoriske felter (markeret med en *) og klik på GEM nederst på siden.
+
+![Opret medlem](images/medlem006.jpg)
