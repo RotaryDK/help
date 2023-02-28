@@ -11,15 +11,15 @@ For at oprette et nyt medlem skal du:
 - Klikke på de 3 lodrette prikker i højre side
 - Vælg punktet "opret medlem"
 
-![Opret medlem](images/medlem005.jpg)
+![Opret medlem](images/medlem005.jpg){class="shadow-longer"}
 
 Herefter fremkommer formularen, hvor du skal oprette det nye medlem. Udfyld alle obligatoriske felter (markeret med en *) og klik på GEM nederst på siden. HUSK at vælge medlemstype. Den står til Gæstemedlem som standard.
 
 I højre side af skærmen finder du hjælp til de enkelte felter.
 
-![Opret medlem](images/medlem006.jpg)
+![Opret medlem](images/medlem006.jpg){class="shadow-longer"}
 
-![Opret medlem](images/medlem007.jpg)
+![Opret medlem](images/medlem007.jpg){class="shadow-longer"}
 
 !!! warning "Husk at klikke på GEM i bunden af skærmen"
 

@@ -23,6 +23,8 @@ theme:
       bug: octicons/bug-16
       example: octicons/beaker-16
       quote: octicons/quote-16
+extra_css:
+  - stylesheets/shadow.css
 markdown_extensions:
   - admonition
   - pymdownx.details
