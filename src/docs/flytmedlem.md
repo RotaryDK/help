@@ -27,3 +27,9 @@ Der fremkommer nu en side, som viser 3 felter.
 <strong>Ny Klub:</strong> Her vælges den klub medlemmer skal overføres til 
 
 <strong>Overførselsdato:</strong> Her angives pr. hvilken dato medlemmet skal overføres til den nye klub.
+
+Udfyld felterne Ny klub og overførselsdato og klik herefter på SKIFT KLUB.
+
+!!! info "Husk at klikke på GEM i bunden af skærmen"
+
+    Hvis der er valgt en overførselsdato frem i tiden, vil du ikke kunne se at medlemmet er bliver lagt til overførsel til ny klub. Overførslen vil automatisk ske på den valgte dato.
