@@ -30,6 +30,6 @@ Der fremkommer nu en side, som viser 3 felter.
 
 Udfyld felterne Ny klub og overførselsdato og klik herefter på SKIFT KLUB.
 
-!!! info "Husk at klikke på GEM i bunden af skærmen"
+!!! info "Flyt af medlem på en fremtidig dato"
 
     Hvis der er valgt en overførselsdato frem i tiden, vil du ikke kunne se at medlemmet er bliver lagt til overførsel til ny klub. Overførslen vil automatisk ske på den valgte dato.
