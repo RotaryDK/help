@@ -8,7 +8,7 @@ Vælg det medlem, som skal flyttes og klik derefter på de 3 lodrette prikker, o
 
 ![Flyt medlem](images/flytmedlem001.jpg){class="shadow-longer"}
 
-Siden vises nu i redigeringstilstand, og medlemmet kan nu redigere.
+Siden vises nu i redigeringstilstand, og medlemmet kan nu redigeres.
 
 Klik igen på de 3 lodrette prikker og vælg nu menupunktet SKIFT KLUB.
 
