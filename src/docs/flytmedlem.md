@@ -22,6 +22,8 @@ Der fremkommer nu en side, som viser 3 felter.
 
 ![Flyt medlem](images/flytmedlem003.jpg){class="shadow-longer"}
 
-Nyværende klub: Viser hvilken klub medlemmer er i nu
-Ny Klub: Her vælges den klub medlemmer skal overføres til 
-Overførselsdato: Her angives pr. hvilken dato medlemmet skal overføres til den nye klub.
+<strong>Nyværende klub:</strong> Viser hvilken klub medlemmer er i nu
+
+<strong>Ny Klub:</strong> Her vælges den klub medlemmer skal overføres til 
+
+<strong>Overførselsdato:</strong> Her angives pr. hvilken dato medlemmet skal overføres til den nye klub.
