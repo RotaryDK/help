@@ -42,6 +42,8 @@ nav:
   - Medlemssystem:
     - medlemmer.md
     - Opret medlem: opretmedlem.md
+    - Ændre medlem: aendremedlem.md
+    - Gæstemedlem til aktivt medlem: gaesttilmedlem.md
     - Genindmeld medlem: genindmeld.md
     - Udmeld medlem: udmeld.md
     - Flyt til anden klub: flytmedlem.md

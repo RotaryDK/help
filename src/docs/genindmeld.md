@@ -28,3 +28,8 @@ Når du har gjort dette, skal du endnu engang klikke på de 3 lodrette prikker o
 ![Genindmeld medlem](images/genindmeld005.jpg){class="shadow-longer"} 
 
 ikke færdigt!!!!!!!!!!!!!!!!!!!
+
+
+!!! warning "Vigtig information om genindmeldelser"
+
+    Du kan .
