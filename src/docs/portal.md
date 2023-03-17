@@ -1,8 +1,6 @@
 # Rotary portal (Office 365)
 
-Dette er en beskrivelse af hvordan man bruger vores Office 365 portal, du kan logge på portalen via [https://portal.rotary.dk](https://portal.rotary.dk){ target=_new }
-
-Dette er den nemmeste måde at tilgå din funktions postkasse fra Rotary.
+For at gøre det lettere for medlemmer at tilgå sin Rotary funktionspostkasse har vi lavet en portal som hedder [https://portal.rotary.dk](https://portal.rotary.dk){ target=_new }, denne portal gør det nemt at få et overblik over de funktions postkasser man har stillet til rådighed.
 
 ## Opret ny browser profil (Valgfri)
 
