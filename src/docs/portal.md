@@ -1,4 +1,4 @@
-# Rotary Office 365 Portal
+# Rotary portal (Office 365)
 
 Dette er en beskrivelse af hvordan man bruger vores Office 365 portal, du kan logge på portalen via [https://portal.rotary.dk](https://portal.rotary.dk){ target=_new }
 
@@ -32,7 +32,7 @@ Du har nu en ekstra profil som du kan vælge via genvejen oppe i hjørnet, denne
 
 ![Image](images/portal/01-login.png){class="shadow-longer"}
 
-Dit brugernavn er **\<rotary nummer\>@rotary.dk** og tryk derefter på **Næste**
+Dit brugernavn er **<rotary nummer\>@rotary.dk** og tryk derefter på **Næste**
 
 ![Image](images/portal/02-password.png){class="shadow-longer"}
 
@@ -46,7 +46,7 @@ Hvis du er på din egen computer kan du trykke på **Vis ikke dette igen** og v�
 
 På denne side kan du se dine mail adresser
 
-1. Dette er din personlige mail adresse som er **\<rotary nummer\>@rotary.dk**, denne bruges til Teams og møder f.eks.
+1. Dette er din personlige mail adresse som er **<rotary nummer\>@rotary.dk**, denne bruges til Teams og møder f.eks.
 2. Dette er listen over de funktions postkasser du er tildelt rettigheder til
 
 ![Image](images/portal/05-outlook-webapp.png){class="shadow-longer"}
