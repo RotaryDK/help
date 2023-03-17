@@ -56,7 +56,7 @@ nav:
     - outlookpaapc.md
     - OneDrive: onedrive.md
     - Reset kodeord: resetpassword.md
-    - MS Teams: teams.md
+#    - MS Teams: teams.md
     - Dokumenthåndtering: dokumenthaandtering.md
     - MS Authenticator: authenticator.md
     - Auto signatur: autosignatur.md
