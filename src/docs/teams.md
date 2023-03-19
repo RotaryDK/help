@@ -3,10 +3,11 @@
 ## Opret et Teamsmøde
 Gå på portal.rotary.dk og log på din officekonto med dit brugernavn (medlemsnr@rotary.dk) og din adgangskode.
 
-![Opret teamsmøde](images/teams001.jpg)
-
 Klik på linket med dit medlemsnr@rotary.dk.
 Du kommer nu ind i din mailboks.
+
+![Opret teamsmøde](images/teams001.jpg)
+
 Du skal nu gå til din kalender - klik på kalenderikonet, som vist på billedet.
 
 ![Opret teamsmøde](images/teams002.jpg)
