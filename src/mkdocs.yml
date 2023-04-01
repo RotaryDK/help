@@ -40,6 +40,7 @@ markdown_extensions:
 nav:
   - Hjem: index.md
   - Rotary.dk:
+    - rotarydkforside.md
     - medlemmer.md
     - Opret medlem: opretmedlem.md
     - Ændre medlem: aendremedlem.md
