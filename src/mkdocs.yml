@@ -61,5 +61,7 @@ nav:
     - Dokumenthåndtering: dokumenthaandtering.md
     - MS Authenticator: authenticator.md
     - Auto signatur: autosignatur.md
+    - Tips og Tricks:
+      - browserprofil.md
   - NemTilmeld: nemtilmeld.md
   - Portal: 'https://portal.rotary.dk'
