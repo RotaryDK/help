@@ -39,7 +39,7 @@ markdown_extensions:
       emoji_generator: !!python/name:materialx.emoji.to_svg
 nav:
   - Hjem: index.md
-  - Medlemssystem:
+  - Rotary.dk:
     - medlemmer.md
     - Opret medlem: opretmedlem.md
     - Ændre medlem: aendremedlem.md
