@@ -11,4 +11,3 @@ Det er også muligt at søge efter hjælp ved at bruge søgefunktionen i højre 
 - [Flyt Gæstemedlem til aktivt medlem](gaesttilmedlem.md)
 - [Udmeld medlem](udmeld.md)
 - [Ændre en medlemsprofil](aendremedlem.md)
-- [Vis medlemsprofil](browseprofil.md)
