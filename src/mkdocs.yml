@@ -43,9 +43,9 @@ nav:
     - rotarydkforside.md
     - medlemmer.md
     - ledelsesfunktioner.md
-    - modekalender.md
-    - menumm.md
-    - rotaryskiftkodeord.md
+    - Mødekalender: modekalender.md
+    - Generelt: menumm.md
+    - Skift koderod: rotaryskiftkodeord.md
   - Microsoft 365:
     - brug-af-mail.md
     - Rotary portal: portal.md
