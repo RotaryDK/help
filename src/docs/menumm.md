@@ -1,4 +1,4 @@
-# Generel information om rotary.dk og menustruktur
+# Generel information om rotary.dk
 
 ## Lidt generel information om brugen af rotary.dk
 Nedenfor er lidt generelle informationer om hvordan du kan bruge rotary.dk.
